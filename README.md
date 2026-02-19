@@ -5,6 +5,8 @@ Este projeto foi desenvolvido como desafio do bootcamp Bradesco – GenAI e Dado
 
 O NotebookLM foi utilizado para organizar fontes, criar perguntas estratégicas e gerar resumos e análises sobre o tema Planejamento Financeiro Pessoal.
 
+link🔗 https://notebooklm.google.com/notebook/70dcd115-381e-4fc9-88a3-f75bf5123593
+
 🎯 Tema
 
 Planejamento Financeiro Pessoal
