@@ -68,3 +68,6 @@ Também são apresentados métodos práticos como a regra 50-30-20, a importânc
 🚀 Conclusão
 
 Este projeto demonstrou como a IA pode ser utilizada como apoio ao aprendizado ativo, facilitando a organização do conhecimento, a síntese de conteúdos e a criação de materiais reutilizáveis para estudo e revisão contínua.
+
+Anderson Messias  
+Bootcamp Bradesco – GenAI e Dados | DIO
